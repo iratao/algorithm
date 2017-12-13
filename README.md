@@ -1,1 +1,1 @@
-Python version of book *Algorithm*
+Algorithm practice in JS.
